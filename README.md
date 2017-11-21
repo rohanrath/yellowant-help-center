@@ -6,9 +6,3 @@ Since YellowAnt is connected to all your apps, you can create cross application 
 
 If you still haven't, head over to [www.yellowant.com](/www.yellowant.com) to sign up and start using it.
 
-# Powerful Workflows and automation
-
-Since YellowAnt is connected to all your apps, you can create cross application workflows that can be triggered by a YellowAnt command or a background event from one of your apps. These powerful workflows ultimately lets you automate a significant chunk of your tasks and take actions with incredible speed thereby reducing your response time to critical events.
-
-
-

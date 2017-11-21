@@ -19,8 +19,9 @@
 * Integrating Applications
   * [Marketplace](applications/marketplace.md)
   * [App Categories](applications/app-categories.md)
-  * Adding an Integration
+  * [Adding an Integration](applications/adding-an-integration.md)
   * [Commanding Apps](applications/commanding-apps.md)
+  * [Notifications](applications/notifications.md)
 * Workflows
   * Command Workflows
   * Event Workflows
