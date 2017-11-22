@@ -8,9 +8,5 @@ The application that are available but not integrated will have a button called 
 
 In the settings page you can edit your import name,which act as interiors call the application whenever you need to run a particular,nd. For example by default the inbox mail for Gmail help Gmail if you were to update with inner flame 2 email then audio function call start with email ID of Gmail.
 
-You can also set up the notification for every account in an application show the marriage anal application shown below it worked with the temple toggle switch.c
-
-
-
-
+You can also set up the notification for every account in an application show the marriage anal application shown below it worked with the temple toggle switch.
 
