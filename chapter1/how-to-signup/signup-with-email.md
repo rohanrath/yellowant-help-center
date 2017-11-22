@@ -8,3 +8,16 @@ Once you enter your team name and email id, your first step of registration in c
 
 Now for the final step, you need to go to your registered email account and click on “Finish Registration” in the “Complete Registration” email sent to you by YellowAnt. This will lead you to a page wherein after you fill your personal details and create a user id, you are done!
 
+Let's take a look at the step by step process for signing up using Email:
+
+1. Go to www.yellowant.com and click on "Sign Up using E-Mail" or "Sign Up" in the header.
+2. You are taken to a page where you have the option on Slack or Non-Slack teams. You need to enter a custom team name that is going to be your YellowAnt Team Name and your Email. Then click "Enter".
+3. A confirmation mail is sent on the registering Email ID.
+4. Click on the confirmation link which will take you to a form where you can create your account filling your details: name and password. EMail and Team are already filled in based on the previous information.
+5. Click on Finish Registration and you are 
+6. You will be taken to the YellowAnt dashboard where you can start integrating applications.
+
+   Read How to Integrate Applications.
+
+
+

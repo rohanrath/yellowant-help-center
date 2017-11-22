@@ -8,7 +8,7 @@
   * [Inviting Team Members](chapter1/how-to-signup/inviting-team-members.md)
 * [Managing Dashboard](chapter1/yellowant-dashboard.md)
   * [Overview](chapter1/yellowant-dashboard/overview.md)
-  * Applications
+  * [Applications](chapter1/yellowant-dashboard/applications.md)
   * Command Workflows
   * Event Workflows
   * Select Teams
