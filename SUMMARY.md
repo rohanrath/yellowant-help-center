@@ -7,14 +7,13 @@
   * [Signup with Email](chapter1/how-to-signup/signup-with-email.md)
   * [Inviting Team Members](chapter1/how-to-signup/inviting-team-members.md)
 * [Managing Dashboard](chapter1/yellowant-dashboard.md)
-  * [Overview](chapter1/yellowant-dashboard/overview.md)
   * [Applications](chapter1/yellowant-dashboard/applications.md)
   * Command Workflows
   * Event Workflows
   * Select Teams
-  * Console
-  * Manage Apps
-  * Settings
+  * [Console](chapter1/yellowant-dashboard/console.md)
+  * [Manage Apps](chapter1/yellowant-dashboard/manage-apps.md)
+  * [Settings](chapter1/yellowant-dashboard/settings.md)
   * [External Links](chapter1/yellowant-dashboard/external-links.md)
 * Integrating Applications
   * [Marketplace](applications/marketplace.md)
