@@ -6,5 +6,5 @@ Since YellowAnt is connected to all your apps, you can create cross application 
 
 If you still haven't, head over to [www.yellowant.com](/www.yellowant.com) to sign up and start using it.
 
-YellowAnt is a workplace assistant bot that lets you manage and automate your work. YellowAnt is available as a standalone web application and as a bot on Slack and Microsoft Teams\(Soon to be launched\). There are various applications available on our platform. Check out YellowAnt Marketplace. Currently, I am working on an Airtable integration which would
+YellowAnt is a workplace assistant bot that lets you manage and automate your work. YellowAnt is available as a standalone web application and as a bot on Slack and Microsoft Teams\(soon to be launched\). There are various applications available on our platform. Check out YellowAnt Marketplace. Currently, I am working on an Airtable integration which would
 
