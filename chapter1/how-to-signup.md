@@ -7,6 +7,8 @@ For example, a member of team ACME is signing up on YellowAnt for the first time
 ![](/assets/teamname.png)
 
 When signing up on YellowAnt using Slack, each member is automatically a part of the same YellowAnt team, and billing takes place under that same team.  
+
+
 For example, 
 
 ![](/assets/slackteam.png)
