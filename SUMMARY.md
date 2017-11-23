@@ -22,12 +22,12 @@
   * [Commanding Apps](applications/commanding-apps.md)
   * [Notifications](applications/notifications.md)
 * Workflows
-  * Command Workflows
-  * Event Workflows
+  * [Command Workflows](command-workflows.md)
+  * [Event Workflows](event-workflows.md)
   * [Building Workflows](building-workflows.md)
     * Trigger
     * Action
     * Logic
-* System Commands
+* [System Commands](system-commands.md)
 * Developer Community
 
