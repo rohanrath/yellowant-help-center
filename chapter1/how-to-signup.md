@@ -2,6 +2,14 @@
 
 YellowAnt accounts exist within teams. Every individual in the team creates their own account within the team.
 
+There are three ways to sign up on YellowAnt:
+
+* Using Slack
+* Using Microsoft Team
+* Using Email
+
+This is covered in detail in their respective sections.
+
 For example, a member of team ACME is signing up on YellowAnt for the first time. He creates a team called acme-team on YellowAnt. The URL for the team is acme-team.yellowant.com and anyone from the same team would be in the same YellowAnt team as well. This is because all YellowAnt accounts \(Basic, Premium or Enterprise\) are billed at a team level.
 
 The team URL looks like this:
