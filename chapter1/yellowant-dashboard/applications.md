@@ -1,4 +1,6 @@
-An application on yellowant basically gives access to a lot of functionality of that application through the yellowant commands.
+# Application
+
+An application on YellowAnt gives access to a lot of functionalities of that application through YellowAnt commands.
 
 The application panel of the yellowand dashboard is the control centre for all your application management. It is divided into two sections- one has all your integrated applications and the other has all the available applications that you can agree with your account.
 
