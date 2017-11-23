@@ -1,20 +1,26 @@
 # Application
 
-An application on YellowAnt gives access to a lot of functionalities of that application through YellowAnt commands.
+**What is an application? **An application on YellowAnt is a connection to an account on an external service with functionalities usable through YellowAnt commands and workflows. 
 
-The application panel of the YellowAnt dashboard is the control center for all your application management. It is divided into two sections - 
+The application panel of the YellowAnt dashboard is the control center for all your integrations. 
+
+
+
+
+
+It is divided into two sections -
 
 **Your Applications**
 
-one has all your integrated applications 
+This section contains all the applications that are already integrated with your YellowAnt account. The integrated applications' cards will have a button called 'Manage' which you can click to enter the settings page of that particular application. 
 
-Your integrated application card will have a button called manage which you can click to enter the settings page of that particular application.
+* Change the application invoke name 
+  The invoke name is used to call apps with commands. For example, the default invoke name for GMail is 'gmail' and to send a mail, you must execute the command 'gmail send'. If you change the invoke name from 'gmail' to 'email', the corresponding send mail command becomes 'email send'.
+
+* Change notifications settings
+  YellowAnt subscribes you to a number of notification for each account of that application. If you don't wish to receive those notifications you can change them individually from here.
 
 **Available Applications**
 
-and the other has all the available applications that you can integrate with your account.
-
-The application that are available but not integrated will have a button called integrate which you can click to proceed with the integration of that particular application.
-
-You can also set up the notification for every account in an application show the marriage anal application shown below it worked with the temple toggle switch.
+This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application. Following which the
 
