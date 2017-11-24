@@ -2,13 +2,13 @@
 
 You can also join an existing team using invitation link sent to you by a team member who already uses YellowAnt. Just click on the link and then you will need to go to your registered email account and click on “Finish Registration” in the “Complete Registration” email sent to you by YellowAnt. This will lead you to a page wherein after you fill your details and create a user id, you are ready to use YellowAnt.
 
-In the Admin settings in Dashboard, click on **Account**
+Let's look at the process to invite a team member,
 
-* Click on **Invite**
+1. Go to the settings panel in the YellowAnt dashboard \(Read more about the Dashboard\)![](/assets/Invite1.png)
+2. Open "Admin" settings and go to "Team Members" section and fill in the invites' email ids and click "Invite"![](/assets/Invite2.png)
+3. ![](/assets/Invite2.png)
 
-* Enter a comma-separated list of the emails of team members you want to invite
 
-* Click on **Invite Emails**
 
 
 
