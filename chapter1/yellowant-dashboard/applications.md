@@ -1,6 +1,6 @@
 # Application
 
-**What is an application? **An application on YellowAnt is a connection to an account on an external service with functionalities usable through YellowAnt commands and workflows.
+Note:** **An application on YellowAnt is a connection to an account on an external service with functionalities usable through YellowAnt commands and workflows.
 
 The application panel of the YellowAnt dashboard is the control center for all your integrations.
 
@@ -18,7 +18,7 @@ This section contains all the applications that are already integrated with your
 
 **Available Applications**
 
-This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application. 
+This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application. Start integrating applications.
 
-Start integrating applications.
+![](/assets/AppsDash.jpg)YellowAnt Applications Panel in the Dashboard.
 
