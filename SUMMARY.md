@@ -21,7 +21,7 @@
   * [Adding an Integration](applications/adding-an-integration.md)
   * [Commanding Apps](applications/commanding-apps.md)
   * [Notifications](applications/notifications.md)
-* Workflows
+* [Workflows](workflows.md)
   * [Command Workflows](command-workflows.md)
   * [Event Workflows](event-workflows.md)
   * [Building Workflows](building-workflows.md)
