@@ -14,9 +14,7 @@ Let's take a look at the step by step process for signing up using Email:
 2. You are taken to a page where you have the option on Slack or Non-Slack teams. You need to enter a custom team name that is going to be your YellowAnt Team Name and your Email. Then click "Join".![](/assets/Email1.jpg)
 3. A confirmation mail is sent on the registering Email ID.![](/assets/mailsignup.png)
 4. Click on the confirmation link which will take you to a form where you can create your account filling your details: name and password. EMail and Team are already filled in based on the previous information.![](/assets/Email2.jpg)
-5. Click on "Start Using YellowAnt" and you will be taken to the YellowAnt dashboard where you can start integrating applications.
+5. Click on "Start Using YellowAnt" and you will be taken to the YellowAnt dashboard where you can start integrating applications.![](/assets/Overview.jpg)
 
 Read How to Integrate Applications.
-
-
 
