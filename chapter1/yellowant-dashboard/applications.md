@@ -16,6 +16,8 @@ This section contains all the applications that are already integrated with your
 * Change notifications settings  
   YellowAnt subscribes you to a number of notification for each account of that application. If you don't wish to receive those notifications you can change them individually from here.
 
+![](/assets/AppSettings.jpg)
+
 **Available Applications**
 
 This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application. Start integrating applications.
