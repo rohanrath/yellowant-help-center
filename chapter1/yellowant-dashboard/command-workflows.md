@@ -12,7 +12,9 @@ This section contains all the applications that are already integrated with your
 
 **Available Workflows**
 
-This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application.![](/assets/CommandWorkflows.jpg)
+This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application.
+
+![](/assets/CommandWorkflows.jpg)
 
 Start integrating applications.
 

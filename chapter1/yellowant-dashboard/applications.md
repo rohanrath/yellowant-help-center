@@ -4,6 +4,8 @@ Note:** **An application on YellowAnt is a connection to an account on an extern
 
 The application panel of the YellowAnt dashboard is the control center for all your integrations.
 
+![](/assets/AppsDash.jpg)
+
 It is divided into two sections -
 
 **Your Applications**
@@ -16,7 +18,7 @@ This section contains all the applications that are already integrated with your
 * Change notifications settings  
   YellowAnt subscribes you to a number of notification for each account of that application. If you don't wish to receive those notifications you can change them individually from here.
 
-![](/assets/AppSettings.jpg)
+![](/assets/AppSettings.jpg)YellowAnt Application Management Center - Change invoke names and notification settings.
 
 **Available Applications**
 
