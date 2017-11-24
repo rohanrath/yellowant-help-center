@@ -2,7 +2,7 @@
 
 YellowAnt offers you two different ways of controlling your applications. Apart from these, the notifications and automatic updates can be configured through the dashboard and can be changed through commands and dialog boxes as well.
 
-**Using Dialog Boxes                
+**Using Dialog Boxes                  
 **YellowAnt offers you an unique way to manage your applications from chat apps like Slack or through the native console to command applications through dialog boxes. Basically, you type in the application name, which displays a bunch of commands for you to choose from. You choose to run that command, and a dialog box pops up to take any necessary inputs that are required for the particular action.  
 For example, if you want to send an email in Gmail all you have to do is click on "run this command" for the send option and then fill in the inputs, like the person's id you are sending the mail to, what the subject is and what the body is followed by which you just hit enter and the mail is sent right from within Slack/any chat app/native console. Let's see the process below.
 
@@ -36,7 +36,7 @@ Using the YellowAnt dashboard you can simply navigate to the particular integrat
 1. Find the application in the Applications Panel of the Dashboard
 2. Click on "Manage" on the application card 
 3. Scroll down to the notifications settings
-4. Toggle on/off depending on what you require for each notification =
+4. Toggle on/off depending on what you require for each notification
 
 **Workflows - Events and Commands**
 
