@@ -6,9 +6,6 @@ Let's look at the process to invite a team member,
 
 1. Go to the settings panel in the YellowAnt dashboard \(Read more about the Dashboard\)![](/assets/Invite1.png)
 2. Open "Admin" settings and go to "Team Members" section and fill in the invites' email ids and click "Invite"![](/assets/Invite2.png)
-3. ![](/assets/Invite2.png)
-
-
 
 
 
