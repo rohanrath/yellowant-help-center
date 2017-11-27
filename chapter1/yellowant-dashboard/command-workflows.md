@@ -2,9 +2,7 @@
 
 **What is a command workflow? **YellowAnt is connected to all your apps so you can create cross application workflows that can be triggered by a YellowAnt command. This means with a simple command you can trigger a chain of events across different apps and even use the subsequent data in the process.
 
-The "Command Workflows" panel of the YellowAnt dashboard is the control center for all your command workflows in use.
-
-It is divided into two sections -
+The "Command Workflows" panel of the YellowAnt dashboard is the control center for all your command workflows in use. It is divided into two sections -
 
 **Your Workflows**
 
