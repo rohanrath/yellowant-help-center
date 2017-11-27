@@ -34,7 +34,7 @@
         "fontsettings": {
           "theme": "white",
           "family":"sans",
-          "size": 3
+          "size": 2
         },
         "favicon":{
             "shortcut": "assets/images/logo/yellowanticon.ico",
