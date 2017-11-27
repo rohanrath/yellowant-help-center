@@ -12,12 +12,12 @@ _Note: This is the same as "Edit Profile" in the dashboard's side panel._
 
 The settings panel lets you update your profile and account settings.
 
-**Profile    
+**Profile      
 **You can change your name, time zone and nickname from this panel.
 
 ![](/assets/settings_profile.jpg)
 
-**Account    
+**Account      
 **Change your password or update global account settings from here.
 
 ![](/assets/settings_profile.jpg)
@@ -38,7 +38,7 @@ The "Integrations" button takes you to the application management center for all
 
 The "Admin" panel is only visible to team owners and gives access to a whole lot of actions for administrators to use and cater to the entire team.
 
-Admin Account: Holds the "Team Details" which has the team name only right now. Please note, changing the team name would log out every team member.
+Admin Account: Holds the "Team Details" which has the team name. Please note, changing the team name would log out every team member.
 
 ![](/assets/admin_account.jpg)
 
@@ -54,7 +54,7 @@ Billing History: Contains entire billing history of past transactions.
 
 ![](/assets/admin_billing.jpg)
 
-Billing Plan: The panel where the administrator can change the team's YellowAnt plan - Free, Basic or Premium. 
+Billing Plan: The panel where the administrator can change the team's YellowAnt plan - Free, Basic or Premium.
 
 ![](/assets/admin_billplan.jpg)
 
