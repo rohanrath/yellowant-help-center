@@ -10,7 +10,7 @@
   * [Applications](chapter1/yellowant-dashboard/applications.md)
   * [Command Workflows](chapter1/yellowant-dashboard/command-workflows.md)
   * [Event Workflows](chapter1/yellowant-dashboard/event-workflows.md)
-  * Select Teams
+  * [Select Teams](chapter1/yellowant-dashboard/select-teams.md)
   * [Console](chapter1/yellowant-dashboard/console.md)
   * [Manage Apps](chapter1/yellowant-dashboard/manage-apps.md)
   * [Settings](chapter1/yellowant-dashboard/settings.md)
