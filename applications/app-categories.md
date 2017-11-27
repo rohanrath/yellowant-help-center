@@ -1,4 +1,4 @@
-# App Categories
+# Marketplace and App Categories
 
 YellowAnt is a one size-fits-all platform \(more like one-platform-fix-all\). It caters to the needs of all kinds of businesses and all the different domains that fall within the company.  YellowAnt makes it easy for your teams to decide which apps to choose by segregating them into categories and combinations of apps usually used widely in the industry.
 
