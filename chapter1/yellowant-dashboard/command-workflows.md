@@ -1,6 +1,6 @@
 # Command Workflows
 
-**What is a command workflow? **YellowAnt is connected to all your apps so you can create cross application workflows that can be triggered by a YellowAnt command. This means with a simple command you can
+**What is a command workflow? **YellowAnt is connected to all your apps so you can create cross application workflows that can be triggered by a YellowAnt command. This means with a simple command you can trigger a chain of events across different apps and even use the consequent data in the process.
 
 The command workflows panel of the YellowAnt dashboard is the control center for all your integrations.
 
@@ -8,11 +8,11 @@ It is divided into two sections -
 
 **Your Workflows**
 
-This section contains all the applications that are already integrated with your YellowAnt account. The integrated applications' cards will have a button called 'Manage' which you can click to enter the settings page of that particular application
+ This contains all the workflows that you are currently using. You can go to the workflow management page by clicking on the "manage" button on your workflow cards. In the management tab you can edit the workflow or make other required settings changes.
 
 **Available Workflows**
 
-This section contains all the applications that are available as YellowAnt integrations. The application cards have a button called 'Integrate' which on clicking takes you to the integration page of the application.
+This contains all the workflows that are available as templates in the YellowAnt Marketplace. You can click on "Use Template" button on these cards to see what they contain in a detailed overview and proceed to click on the top right button with same "Use Template" again to start editing or using for your needs.
 
 ![](/assets/CommandWorkflows.jpg)
 
