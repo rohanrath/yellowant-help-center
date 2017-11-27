@@ -38,11 +38,7 @@ Team Members: Holds the list of team members and an option to invite new users b
 
 Payment Methods: This section is used to manage payments for team who are on Basic and Premium plans. The administrator adds a card that is used to pay for YellowAnt.
 
-Billing History:
+Billing History: Contains entire billing history of past transactions. 
 
-Billing Plan: 
-
-
-
-
+Billing Plan: Choose 
 
