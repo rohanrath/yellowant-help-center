@@ -4,7 +4,7 @@ YellowAnt is a one size-fits-all platform \(more like one-platform-fix-all\). It
 
 Let's quickly look at how the [YellowAnt Marketplace](https://www.yellowant.com/marketplace/) is laid out for your ease of use:
 
-&lt;Insert Marketplace Screen&gt;
+![](/assets/app_categories.jpg)
 
 #### **ALL**
 
