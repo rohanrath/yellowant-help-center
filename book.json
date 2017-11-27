@@ -1,0 +1,49 @@
+{
+    "bookname": "docs",
+    "description": "YellowAnt Documentation",
+    "author": "YellowAnt Inc.",
+    "keywords": [
+        "yellowant",
+        "slack",
+        "chatbot",
+        "bot",
+        "chatbot",
+        "ai","ml","nlp",
+        "workflows",
+        "automation"
+    ],
+    "ignores": ["backup", "_book", "styles", "assets", "node_modules","sources"],
+    "homepage": "https://github.com/yellowanthq/docs",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yellowanthq/docs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yellowanthq/docs/issues"
+    },
+    "plugins": [
+      "youtube",
+      "collapsible-menu",
+      "toggle-chapters",
+      "image-wrapper",
+      "image-captions",
+      "favicon"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+          "theme": "white",
+          "family":"sans",
+          "size": 3
+        },
+        "favicon":{
+            "shortcut": "assets/images/logo/yellowanticon.ico",
+            "bookmark": "assets/images/logo/yellowanticon.ico",
+            "appleTouch": "assets/images/logo/yellowanticon.ico",
+            "appleTouchMore": {
+                "150x150": "assets/images/logo/logo/yellowantLogo150.png",
+                "180x180": "assets/images/logo/logo/yellowant200.png"
+            }
+        }
+  }
+}
