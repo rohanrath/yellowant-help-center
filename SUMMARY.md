@@ -24,9 +24,10 @@
   * [Command Workflows](command-workflows.md)
   * [Event Workflows](event-workflows.md)
   * [Building Workflows](building-workflows.md)
-    * Trigger
-    * Action
-    * Logic
+    * [Trigger](building-workflows/trigger.md)
+    * [Action](building-workflows/action.md)
+    * [Logic](building-workflows/logic.md)
 * [System Commands](system-commands.md)
-* Developer Community
+* [Developer Community](developer-community.md)
+* Plans and Pricing
 
