@@ -2,7 +2,7 @@
 
 **What is an event workflow? **YellowAnt is connected to all your apps so you can create cross application workflows that can be triggered by an event of any application. This means a certain event of a certain application can trigger a chain of events across other apps and even use the subsequent data in the process.
 
-The command workflows panel of the YellowAnt dashboard is the control center for all your integrations.
+The "Event Workflows" panel of the YellowAnt dashboard is the control center for all your event workflows in use.
 
 It is divided into two sections -
 
