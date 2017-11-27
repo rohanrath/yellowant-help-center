@@ -8,16 +8,14 @@ The settings button in the header panel gives you 3 options:
 
 ### Settings
 
-_Note: This is the same as "Edit Profile" in the dashboard's side panel._
+The settings panel lets you update your profile and account settings. _Note: This is the same as "Edit Profile" in the dashboard's side panel._
 
-The settings panel lets you update your profile and account settings.
-
-**Profile      
+**Profile        
 **You can change your name, time zone and nickname from this panel.
 
 ![](/assets/settings_profile.jpg)
 
-**Account      
+**Account        
 **Change your password or update global account settings from here.
 
 ![](/assets/settings_profile.jpg)
