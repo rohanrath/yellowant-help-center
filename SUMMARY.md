@@ -12,7 +12,6 @@
   * [Event Workflows](chapter1/yellowant-dashboard/event-workflows.md)
   * [Select Teams](chapter1/yellowant-dashboard/select-teams.md)
   * [Console](chapter1/yellowant-dashboard/console.md)
-  * [Manage Apps](chapter1/yellowant-dashboard/manage-apps.md)
   * [Settings](chapter1/yellowant-dashboard/settings.md)
   * [External Links](chapter1/yellowant-dashboard/external-links.md)
 * [Integrating Applications](integrating-applications.md)
