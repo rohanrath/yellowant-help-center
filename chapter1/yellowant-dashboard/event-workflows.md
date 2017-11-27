@@ -14,3 +14,5 @@ This contains all the workflows that you are currently using. You can go to the 
 
 This contains all the workflows that are available as templates in the YellowAnt Marketplace. You can click on "Use Template" button on these cards to see what they contain in a detailed overview and proceed to click on the top right button with same "Use Template" again to start editing or using for your needs.
 
+![](/assets/EventWorkflows.jpg)
+
