@@ -12,9 +12,15 @@ _Note: This is the same as "Edit Profile" in the dashboard's side panel._
 
 The settings panel lets you update your profile and account settings.
 
-Profile: You can change your name, time zone and nickname from this panel.
+**Profile  
+**You can change your name, time zone and nickname from this panel.
 
-Account: Change your password or update global account settings from here.
+![](/assets/settings_profile.jpg)
+
+**Account  
+**Change your password or update global account settings from here.
+
+![](/assets/settings_profile.jpg)
 
 ### Integrations
 
@@ -38,7 +44,7 @@ Team Members: Holds the list of team members and an option to invite new users b
 
 Payment Methods: This section is used to manage payments for team who are on Basic and Premium plans. The administrator adds a card that is used to pay for YellowAnt.
 
-Billing History: Contains entire billing history of past transactions. 
+Billing History: Contains entire billing history of past transactions.
 
-Billing Plan: Choose 
+Billing Plan: Choose
 
