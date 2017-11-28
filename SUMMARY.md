@@ -15,10 +15,11 @@
   * [Settings](chapter1/yellowant-dashboard/settings.md)
   * [External Links](chapter1/yellowant-dashboard/external-links.md)
 * [Integrating Applications](integrating-applications.md)
-  * [Marketplace and App Categories](applications/app-categories.md)
-  * [Adding an Integration](applications/adding-an-integration.md)
-  * [Commanding Apps](applications/commanding-apps.md)
-  * [Notifications](applications/notifications.md)
+  * [Marketplace and App Categories](integrating-applications/marketplace-and-app-categories.md)
+* [Marketplace and App Categories](applications/app-categories.md)
+* [Adding an Integration](applications/adding-an-integration.md)
+* [Notifications](applications/notifications.md)
+* [Commanding Apps](applications/commanding-apps.md)
 * [Workflows](workflows.md)
   * [Command Workflows](command-workflows.md)
   * [Event Workflows](event-workflows.md)
@@ -29,5 +30,5 @@
   * Using Templates
 * [System Commands](system-commands.md)
 * [Plans and Pricing](plans-and-pricing.md)
-* [Developer Community](developer-community.md)
+* Integrating Applications
 
