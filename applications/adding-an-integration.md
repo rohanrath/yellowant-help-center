@@ -14,14 +14,14 @@ _Note: We would use Asana as an example for the comprehensive steps. You can fin
    ![](/assets/mpsel.jpg)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
-   ![](/assets/intepage.jpg)  
-  
+   ![](/assets/intepage.jpg)
+
    At this point, there are two possiblities:  
    A. Either the application is a simple OAuth authentication like in Asana or GMail.  
-   B. Or it might require you to authenticate using API token like in Freshdesk or Jenkins.  
-  
-   Steps 5 A and 6 A show the scenerio A for simple OAuth  
-   Steps 5 B and 6 B show the scenario B for an API Token authentication \(Freshdesk is used as an example\)
+   B. Or it might require you to authenticate using API token like in Freshdesk or Jenkins.
+
+   Steps 5 and 6 show the scenario A for simple OAuth  
+   Steps 7 and 8 show the scenario B for an API Token authentication \(Freshdesk is used as an example\)
 
 5. A. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the Asana OAuth page.  
    ![](/assets/add acc.jpg)Add Account Page for Asana.  
