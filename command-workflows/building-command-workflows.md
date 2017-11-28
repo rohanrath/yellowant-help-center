@@ -4,10 +4,25 @@ In this section, we see step by step how to create a command workflow on YellowA
 
 1. In your YellowAnt Dashboard, either from the Overview Panel or Command Workflows Panel, select "Add New" or "Create a Workflow" option respectively. 
    ![](/assets/createcw.png)![](/assets/creatcw.png)
-2. This will take you to the "Workflow Builder" page. Select "Create Command Workflow" from the two choices.   
+2. This will take you to the "Workflow Builder" page. Select "Create Command Workflow" from the two choices.  
    ![](/assets/select.png)
 
-3. ### 
+3. Choose a "Collection" in which you want to add the workflow to, Then, give a command name to the workflow. This will be useful in executing the command later from your chat window. Example, we are naming it "startmyday" and in order to execute it later, we would be using the command "workflow startmyday".  
+  
+   _Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some meaning to the user. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
+  
+  
+   _
+
+4. sfsff
+
+5. sffsfs
+
+6. sffs
+
+7. fffsfs
+
+8. sffs
 
 ### Example:
 
@@ -50,6 +65,8 @@ Fetching incident details
 In the actions, select **get\_incident**
 
 ![](https://cdn-images-1.medium.com/max/1000/1*Rnoiz46RsZGgamgsI_u2sA.png)
+
+
 
 Fetching the incident details from PagerDuty
 
