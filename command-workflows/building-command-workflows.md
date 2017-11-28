@@ -9,7 +9,7 @@ In this section, we see step by step how to create a command workflow on YellowA
 
 3. Choose a "Collection" in which you want to add the workflow to, Then, give a command name to the workflow. This will be useful in executing the command later from your chat window. Example, we are naming it "startmyday" and in order to execute it later, we would be using the command "workflow startmyday".
 
-   Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some meaning to the user. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
+   Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some specific set of tasks. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
    ![](/assets/CW2.jpg)
 
 4. Click on "Add Action in the left panel.
@@ -21,7 +21,7 @@ In this section, we see step by step how to create a command workflow on YellowA
    ![](/assets/gmailaction.jpg)
 
 7. Fill in the required parameter field with the values you need. Here, we want mails fetched with the label "UNREAD".  
-   ![](/assets/fillreqdfield.jpg) 
+   ![](/assets/fillreqdfield.jpg)
 
 8. Click on "Add Action" in the left panel to add the second application.
 
