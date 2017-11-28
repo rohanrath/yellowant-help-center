@@ -15,7 +15,7 @@
   * [Settings](chapter1/yellowant-dashboard/settings.md)
   * [External Links](chapter1/yellowant-dashboard/external-links.md)
 * [Integrating Applications](integrating-applications.md)
-  * [App Categories](applications/app-categories.md)
+  * [Marketplace and App Categories](applications/app-categories.md)
   * [Adding an Integration](applications/adding-an-integration.md)
   * [Marketplace](applications/marketplace.md)
   * [Commanding Apps](applications/commanding-apps.md)
