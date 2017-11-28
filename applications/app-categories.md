@@ -100,7 +100,7 @@ _Available Apps: YouTube, RSS, Wikipedia, StackExchange, Twitter_
 
 You will also see these two categories:
 
-**Private To You - **Applications build by you and kept private to yourself only. You can use it with YellowAnt , find it in the marketplace but your team members won't see it until you make it "Private to Your Team".
+**Private To You - **Applications build by you and kept private to yourself only. You can use it with YellowAnt, find it in the marketplace but your team members won't see it until you make it "Private to Your Team".
 
-**Private To Your Team - **Applications build by members of your team and kept private to the team only. You can use it with YellowAnt , find it in the marketplace but other YellowAnt users outside your team won't see it until you make it "Public" and it is verified and tested by the YellowAnt Dev Team as well.
+**Private To Your Team - **Applications build by members of your team and kept private to the team only. You can use it with YellowAnt, find it in the marketplace but other YellowAnt users outside your team won't see it until you make it "Public" and it is verified and tested by the YellowAnt Dev Team as well.
 
