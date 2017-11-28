@@ -28,5 +28,5 @@
     * [Logic](building-workflows/logic.md)
 * [System Commands](system-commands.md)
 * [Developer Community](developer-community.md)
-* Plans and Pricing
+* [Plans and Pricing](plans-and-pricing.md)
 
