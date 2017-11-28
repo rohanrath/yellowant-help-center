@@ -30,5 +30,10 @@ _Note: We would use Asana as an example for the comprehensive steps. You can fin
 6. Allow the needed permissions and Asana is now integrated with YellowAnt.  
    ![](/assets/asanaadded.jpg)
 
+7. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the application \(here Freshdesk\) details page.
+
+8. Once you fill in the details, the authentication is taken care of, the application would now be integrated with YellowAnt.  
+   ![](/assets/apikey.jpg)
+
 
 
