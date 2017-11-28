@@ -1,7 +1,12 @@
-# **How to Integrate Asana**
+# **How to Integrate an Application**
 
-1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace) 
-   &lt;Screen1 and Screen2&gt;
+_Note: We would use Asana as an example for the comprehensive steps. You can find out how to integrate specific apps on their respective application page in the marketplace. _
+
+1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).  
+   ![](/assets/Overview.jpg)YellowAnt Dashboard
+
+   ![](/assets/app_categories.jpg)YellowAnt Marketplace
+
 2. If you are in the dashboard, go to the tab called "Applications" and look for "Asana" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".  
    &lt;Screen1 and Screen2&gt;
 
