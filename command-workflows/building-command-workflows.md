@@ -4,7 +4,11 @@ In this section, we see step by step how to create a command workflow on YellowA
 
 1. In your YellowAnt Dashboard, either from the Overview Panel or Command Workflows Panel, select "Add New" or "Create a Workflow" option respectively. 
    ![](/assets/createcw.png)![](/assets/creatcw.png)
-2. 
+2. This will take you to the "Workflow Builder" page. Select "Create Command Workflow" from the two choices.   
+   ![](/assets/select.png)
+
+3. ### 
+
 ### Example:
 
 Let’s create one Slack command that gets a high-priority PagerDuty incident, creates a JIRA issue, sends an email to the Test team, and creates a calendar event for a war room meeting. Normally, this process would take atleast 5 minutes. With this command, it will take 5 seconds.
