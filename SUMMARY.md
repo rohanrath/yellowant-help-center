@@ -26,7 +26,7 @@
       * Action
       * Logic
   * [Event Workflows](event-workflows.md)
-    * Building Event Workflows
+    * [Building Event Workflows](event-workflows/building-event-workflows.md)
       * Trigger
       * Action
       * Logic
