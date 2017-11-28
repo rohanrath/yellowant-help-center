@@ -17,17 +17,20 @@
 * [Integrating Applications](integrating-applications.md)
   * [Marketplace and App Categories](integrating-applications/marketplace-and-app-categories.md)
   * [Adding an Integration](integrating-applications/adding-an-integration.md)
-* [Adding an Integration](applications/adding-an-integration.md)
-* [Notifications](applications/notifications.md)
 * [Commanding Apps](applications/commanding-apps.md)
+* [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
   * [Command Workflows](command-workflows.md)
+    * [Building Command Workflows](command-workflows/building-command-workflows.md)
+      * Trigger
+      * Action
+      * Logic
   * [Event Workflows](event-workflows.md)
-  * [Building Workflows](building-workflows.md)
-    * [Trigger](building-workflows/trigger.md)
-    * [Action](building-workflows/action.md)
-    * [Logic](building-workflows/logic.md)
-  * Using Templates
+    * Building Event Workflows
+      * Trigger
+      * Action
+      * Logic
+  * [Using Templates](using-templates.md)
 * [System Commands](system-commands.md)
 * [Plans and Pricing](plans-and-pricing.md)
 * Integrating Applications
