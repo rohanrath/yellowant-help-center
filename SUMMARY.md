@@ -26,6 +26,7 @@
     * [Trigger](building-workflows/trigger.md)
     * [Action](building-workflows/action.md)
     * [Logic](building-workflows/logic.md)
+  * Using Templates
 * [System Commands](system-commands.md)
 * [Plans and Pricing](plans-and-pricing.md)
 * [Developer Community](developer-community.md)

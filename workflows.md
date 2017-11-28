@@ -9,5 +9,7 @@ Advantages of using YellowAnt Workflows
 3. **Enriched with logic** - Add conditions in between steps, perform relational operations and even repeat actions over a certain data set using the various functions available under YellowAnt Workflows.
 4. **Data formatting** - Format data based on your requirements in the beginning, in between or towards the end of workflows. 
 
+![](/assets/wf_mp.jpg)YellowAnt Workflows Marketplace makes numerous workflows available to you. You can publish your own workflows and let your team and other benefit from them.
+
 
 
