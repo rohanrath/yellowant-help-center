@@ -27,7 +27,7 @@
   * [Event Workflows](event-workflows.md)
     * [Building Event Workflows](event-workflows/building-event-workflows.md)
       * [Trigger](event-workflows/building-event-workflows/trigger.md)
-      * Collection
+      * [Collection](event-workflows/building-event-workflows/collection.md)
       * Action
       * Logic
   * [Using Templates](using-templates.md)
