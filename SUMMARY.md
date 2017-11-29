@@ -27,7 +27,7 @@
       * [Action](command-workflows/building-command-workflows/action.md)
       * [Using Action Outputs](command-workflows/building-command-workflows/using-action-outputs.md)
       * [Logical Functions](command-workflows/building-command-workflows/logical-functions.md)
-      * Using Conditional Actions
+      * [Using Conditional Actions](command-workflows/building-command-workflows/using-conditional-actions.md)
   * [Event Workflows](event-workflows.md)
     * [Building Event Workflows](event-workflows/building-event-workflows.md)
       * [Trigger](event-workflows/building-event-workflows/trigger.md)
