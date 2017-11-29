@@ -30,7 +30,7 @@
       * [Trigger](event-workflows/building-event-workflows/trigger.md)
       * [Collection](event-workflows/building-event-workflows/collection.md)
       * [Action](event-workflows/building-event-workflows/action.md)
-      * Logic
+      * [Logic](event-workflows/building-event-workflows/logic.md)
   * [Using Templates](using-templates.md)
 * [System Commands](system-commands.md)
 * [Plans and Pricing](plans-and-pricing.md)
