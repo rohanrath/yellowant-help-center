@@ -24,11 +24,12 @@
     * [Building Command Workflows](command-workflows/building-command-workflows.md)
       * [Trigger](command-workflows/building-command-workflows/trigger.md)
       * [Collection](command-workflows/building-command-workflows/collection.md)
+      * Action
   * [Event Workflows](event-workflows.md)
     * [Building Event Workflows](event-workflows/building-event-workflows.md)
       * [Trigger](event-workflows/building-event-workflows/trigger.md)
       * [Collection](event-workflows/building-event-workflows/collection.md)
-      * Action
+      * [Action](event-workflows/building-event-workflows/action.md)
       * Logic
   * [Using Templates](using-templates.md)
 * [System Commands](system-commands.md)
