@@ -22,6 +22,7 @@
 * [Workflows](workflows.md)
   * [Command Workflows](command-workflows.md)
     * [Building Command Workflows](command-workflows/building-command-workflows.md)
+      * [Trigger](command-workflows/building-command-workflows/trigger.md)
   * [Event Workflows](event-workflows.md)
     * [Building Event Workflows](event-workflows/building-event-workflows.md)
       * [Trigger](event-workflows/building-event-workflows/trigger.md)
