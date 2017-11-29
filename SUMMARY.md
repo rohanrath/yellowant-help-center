@@ -34,4 +34,5 @@
   * [Using Templates](using-templates.md)
 * [System Commands](system-commands.md)
 * [Plans and Pricing](plans-and-pricing.md)
+* [Developer Community](developer-community.md)
 
