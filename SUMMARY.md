@@ -30,5 +30,5 @@
   * [Using Templates](using-templates.md)
 * [System Commands](system-commands.md)
 * [Plans and Pricing](plans-and-pricing.md)
-* Integrating Applications
+* [Integrating Applications](integrating-applications.md)
 

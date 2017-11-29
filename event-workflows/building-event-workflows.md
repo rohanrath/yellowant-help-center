@@ -8,10 +8,10 @@ In this section, we see step by step how to create an event workflow on YellowAn
 2. This will take you to the "Workflow Builder" page. Select "Create Event Workflow" from the two choices.  
    ![](/assets/select.png)
 
-3. It automatically asks you for a "Trigger" application. The trigger application is the initiation application point for the workflow. Here, we choose Pagerduty as the trigger application.  
+3. It automatically asks you for a "Trigger" application. The trigger application is the initiation application for the workflow. Here, we choose Pagerduty as the trigger application.  
    ![](/assets/ewf3.png)
 
-4. Next step, asks you for a trigger event for the trigger application, That event is when the workflow starts. Here we choose an incident being assigned on Pagerduty as the trigger event.  
+4. Next step, asks you for a trigger event for the trigger application. That event is when the workflow starts. Here we choose an incident being assigned on Pagerduty as the trigger event.  
    ![](/assets/ewf4.jpg)
 
 5. Choose a "Collection" in which you want to add the workflow to.
@@ -21,10 +21,10 @@ In this section, we see step by step how to create an event workflow on YellowAn
 
 6. Click on "Add Action in the left panel.
 
-7. Choose the application from which you want to use as your first "Action". Here, we select "GMail".  
+7. Choose the application from which you want to use your first "Action". Here, we select "GMail".  
    ![](/assets/app1.jpg)
 
-8. Choose the action you want from to use from the application. Here, we select "Send an email".  
+8. Choose the action you want to use from the application. Here, we select "Send an email".  
    ![](/assets/ewf6.jpg)
 
 9. Fill in the required parameter field with the values you need. Here, we want a mail sent to the manager whenever a new Pagerduty incident is assigned. We can use values from the first step i.e. the trigger by using "@" in any of the text fields as shown. We can use it to compose mails in GMail or task names in Asana or use this information fields in different ways. The possibilities are endless.  
@@ -35,7 +35,7 @@ In this section, we see step by step how to create an event workflow on YellowAn
 11. Choose the application from which you want to use as your second "Action". Here, we select "Asana".  
     ![](/assets/app2.jpg)
 
-12. Choose the action you want from to use from the application. Here, we select "Create a task".  
+12. Choose the action you want to use from the application. Here, we select "Create a task".  
     ![](/assets/ewf9.png)
 
 13. Fill in the required parameter fields to create a task. You can use Pagerduty data to fill in details of the task.  
@@ -44,10 +44,10 @@ In this section, we see step by step how to create an event workflow on YellowAn
 14. You can continue to create a chain of events across many apps. We will save it here. Click the button "Save" in the top panel.  
     ![](/assets/ewf12.png)
 
-15. You will get a notification in your chat window about the creation of this new workflow.   
+15. You will get a notification in your chat window about the creation of this new workflow.  
     ![](/assets/ewf13.png)
 
-16. It will execute every time the initial trigger event occurs.  
+16. It will execute every time the initial trigger event occurs.
 
 
 
