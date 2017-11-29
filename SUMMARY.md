@@ -24,7 +24,7 @@
     * [Building Command Workflows](command-workflows/building-command-workflows.md)
   * [Event Workflows](event-workflows.md)
     * [Building Event Workflows](event-workflows/building-event-workflows.md)
-      * Trigger
+      * [Trigger](event-workflows/building-event-workflows/trigger.md)
       * Action
       * Logic
   * [Using Templates](using-templates.md)
