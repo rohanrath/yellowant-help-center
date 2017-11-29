@@ -25,10 +25,10 @@ In this section, we see step by step how to create an event workflow on YellowAn
    ![](/assets/app1.jpg)
 
 8. Choose the action you want from to use from the application. Here, we select "Send an email".  
-   ![](/assets/ewf6.jpg)  
+   ![](/assets/ewf6.jpg)
 
 9. Fill in the required parameter field with the values you need. Here, we want a mail sent to the manager whenever a new Pagerduty incident is assigned. We can use values from the first step i.e. the trigger by using "@" in any of the text fields as shown. We can use it to compose mails in GMail or task names in Asana or use this information fields in different ways. The possibilities are endless.  
-   ![](/assets/ewf7.jpg)  
+   ![](/assets/ewf7.jpg)
 
 10. Click on "Add Action" in the left panel to add the second application.
 
@@ -36,21 +36,18 @@ In this section, we see step by step how to create an event workflow on YellowAn
     ![](/assets/app2.jpg)
 
 12. Choose the action you want from to use from the application. Here, we select "Create a task".  
-    ![](/assets/ewf9.png)  
+    ![](/assets/ewf9.png)
 
 13. Fill in the required parameter fields to create a task. You can use Pagerduty data to fill in details of the task.  
-    ![](/assets/ewf10.jpg)  
+    ![](/assets/ewf10.jpg)
 
 14. You can continue to create a chain of events across many apps. We will save it here. Click the button "Save" in the top panel.  
-    ![](/assets/createdcw.jpg)
+    ![](/assets/ewf12.png)
 
-15. You will get a notification in your chat window about the creation of this new workflow. You can execute it right from there as well.  
-    ![](/assets/check1.png)
+15. You will get a notification in your chat window about the creation of this new workflow.   
+    ![](/assets/ewf13.png)
 
-16. To execute it at any point, just type "collectionname workflowname" and it executes. Example, "demo-collection startmyname".  
-    ![](/assets/cmcmd.png)![](/assets/cwcmd2.png)
-
-### Another Example \(more comprehensive\):
+16. It will execute every time the initial trigger event occurs.  
 
 
 
