@@ -2,7 +2,7 @@
 
 In this section, we see step by step how to create an event workflow on YellowAnt. Following which, we will also cover a very common scenario as the example.
 
-1. In your YellowAnt Dashboard, either from the Overview Panel or Event Workflows Panel, select "Add New" or "Create a Workflow" option respectively.   
+1. In your YellowAnt Dashboard, either from the Overview Panel or Event Workflows Panel, select "Add New" or "Create a Workflow" option respectively.  
    ![](/assets/ewf1.png)![](/assets/ewf2.png)
 
 2. This will take you to the "Workflow Builder" page. Select "Create Event Workflow" from the two choices.  
@@ -17,29 +17,29 @@ In this section, we see step by step how to create an event workflow on YellowAn
 5. Choose a "Collection" in which you want to add the workflow to.
 
    Note: A collection is a way of segregating workflows into sets in order to keep them more organized for every individual. This is totally up to the user and can be treated as having different set of workflows where each set forms a collection with some specific set of tasks. Watch out for custom collections for different domains which will soon launch on YellowAnt.  
-   ![](/assets/ewf5.jpg)  
+   ![](/assets/ewf5.jpg)
 
 6. Click on "Add Action in the left panel.
 
 7. Choose the application from which you want to use as your first "Action". Here, we select "GMail".  
    ![](/assets/app1.jpg)
 
-8. Choose the action you want from to use from the application. Here, we select "fetch mails from a label".  
-   ![](/assets/gmailaction.jpg)
+8. Choose the action you want from to use from the application. Here, we select "Send an email".  
+   ![](/assets/ewf6.jpg)  
 
-9. Fill in the required parameter field with the values you need. Here, we want mails fetched with the label "UNREAD".  
-   ![](/assets/fillreqdfield.jpg)
+9. Fill in the required parameter field with the values you need. Here, we want a mail sent to the manager whenever a new Pagerduty incident is assigned. We can use values from the first step i.e. the trigger by using "@" in any of the text fields as shown. We can use it to compose mails in GMail or task names in Asana or use this information fields in different ways. The possibilities are endless.  
+   ![](/assets/ewf7.jpg)  
 
 10. Click on "Add Action" in the left panel to add the second application.
 
 11. Choose the application from which you want to use as your second "Action". Here, we select "Asana".  
     ![](/assets/app2.jpg)
 
-12. Choose the action you want from to use from the application. Here, we select "List user tasks".  
-    ![](/assets/asanaaction.jpg)
+12. Choose the action you want from to use from the application. Here, we select "Create a task".  
+    ![](/assets/ewf9.png)  
 
-13. Fill in the required parameter field with the values you need. Here, we want tasks fetched from a workspace "yellowant.com".  
-    ![](/assets/fillreqdfield2.jpg)
+13. Fill in the required parameter fields to create a task. You can use Pagerduty data to fill in details of the task.  
+    ![](/assets/ewf10.jpg)  
 
 14. You can continue to create a chain of events across many apps. We will save it here. Click the button "Save" in the top panel.  
     ![](/assets/createdcw.jpg)
