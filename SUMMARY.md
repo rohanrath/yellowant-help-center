@@ -24,7 +24,6 @@
     * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
     * [Bitbucket](integrating-applications/applications-on-yellowant/bitbucket.md)
     * [Calendar \(Google\)](integrating-applications/applications-on-yellowant/calendar-google.md)
-    * [CircleCI](integrating-applications/applications-on-yellowant/freshdesk.md)
     * [Evernote](integrating-applications/applications-on-yellowant/evernote.md)
     * [Freshdesk](integrating-applications/applications-on-yellowant/freshdesk.md)
     * [Github](integrating-applications/applications-on-yellowant/google-calendar.md)
