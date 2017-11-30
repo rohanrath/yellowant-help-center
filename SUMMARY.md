@@ -23,29 +23,29 @@
     * [Asana](integrating-applications/applications-on-yellowant/asana.md)
     * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
     * [Bitbucket](integrating-applications/applications-on-yellowant/bitbucket.md)
-    * Calendar \(Google\)
+    * [Calendar \(Google\)](integrating-applications/applications-on-yellowant/calendar-google.md)
     * [CircleCI](integrating-applications/applications-on-yellowant/freshdesk.md)
-    * Evernote
-    * Freshdesk
+    * [Evernote](integrating-applications/applications-on-yellowant/evernote.md)
+    * [Freshdesk](integrating-applications/applications-on-yellowant/freshdesk.md)
     * [Github](integrating-applications/applications-on-yellowant/google-calendar.md)
-    * Gmail
-    * Google Analytics
-    * Google Contacts
-    * Google Drive
+    * [Gmail](integrating-applications/applications-on-yellowant/gmail.md)
+    * [Google Analytics](integrating-applications/applications-on-yellowant/google-analytics.md)
+    * [Google Contacts](integrating-applications/applications-on-yellowant/google-contacts.md)
+    * [Google Drive](integrating-applications/applications-on-yellowant/google-drive.md)
     * Jenkins
     * Jira
     * JiraO
-    * New Relic
+    * [New Relic](integrating-applications/applications-on-yellowant/new-relic.md)
     * Pagerduty
     * Pivotal Tracker
-    * RSS
-    * Salesforce
-    * Sentry
-    * StackExchange
-    * Trello
-    * Twitter
-    * Wikipedia
-    * YouTube
+    * [RSS](integrating-applications/applications-on-yellowant/rss.md)
+    * [Salesforce](integrating-applications/applications-on-yellowant/salesforce.md)
+    * [Sentry](integrating-applications/applications-on-yellowant/sentry.md)
+    * [StackExchange](integrating-applications/applications-on-yellowant/stackexchange.md)
+    * [Trello](integrating-applications/applications-on-yellowant/trello.md)
+    * [Twitter](integrating-applications/applications-on-yellowant/twitter.md)
+    * [Wikipedia](integrating-applications/applications-on-yellowant/wikipedia.md)
+    * [YouTube](integrating-applications/applications-on-yellowant/youtube.md)
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
