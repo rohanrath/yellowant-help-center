@@ -1,9 +1,8 @@
 # **How to integrate RSS**
 
-1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).  
-   ![](/assets/InstaDash.jpg)YellowAnt Dashboard - Available Applications Panel
+NOTE: RSS is integrated as a default application for all users. Only in the event that you have removed this or you need two separate instances of the application do you need to integrate using the below steps. RSS  doesn't require your login details.
 
-   ![](/assets/InstaMP.png)YellowAnt Marketplace - Search or check out categories
+1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).
 
 2. If you are in the dashboard, go to the tab called "Applications" and look for "RSS" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".
 
