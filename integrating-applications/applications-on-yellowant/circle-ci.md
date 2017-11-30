@@ -20,7 +20,15 @@
 6. In this step, YellowAnt asks you for the Circle CI User API Key.  
    ![](/assets/circle5.png)
 
-7. You can find the API Key for Circle CI in your account under the account button in your profile. Copy and paste that API Key in the text field on YellowAnt Integration page.  
+7. You can find the API Key for Circle CI in your account using the following steps given below. Copy and paste that API Key in the text field on YellowAnt Integration page.  
+  
+   1. Go to User Settings Panel![](/assets/circle7.png)  
+  
+   2. Go to Personal API Tokens in User Settings and click on Create New Token![](/assets/circle8.png)  
+  
+   3. Give a token name and click "Add API Token"![](/assets/circle9.png)  
+  
+   4. Once it generates a new API Token, copy it immediately and paste it in the YellowAnt integration page.![](/assets/circle11.JPG)
 
 8. Circle CI is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
