@@ -15,7 +15,7 @@
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
    ![](/assets/airbrake2.png)
 
-5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the Airbrake OAuth page.  
+5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the Airbrake Access page.  
    Note: Select a team before you click "+ ADD ACCOUNT".  
    ![](/assets/airbrake3.png)
 
