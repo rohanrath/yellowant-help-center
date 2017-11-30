@@ -15,12 +15,12 @@
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
    ![](/assets/airtable3.png)
 
-5. You will be on the integration page which prompts you to add an account to the application. Click add account which takes you to the Airtable Access page.  
+5. You will be on the integration page which prompts you to add an account to the application. Click "add account" which takes you to the Airtable Access page.  
    Note: Select a team before you click "+ ADD ACCOUNT".  
    ![](/assets/airtable4.png)
 
 6. In this step, YellowAnt asks you for the Airtable User API Key.  
-   ![](/assets/airtable8.png)
+   ![](/assets/airtable8.png)![](/assets/airtable8.png)
 
 7. You can find the API Key for Airtable in your account under the account button in your profile. Copy and paste that API Key in the text field on YellowAnt Integration page.  
    ![](/assets/aitable9.JPG)  
