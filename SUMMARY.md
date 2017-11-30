@@ -19,6 +19,7 @@
   * [Adding an Integration](integrating-applications/adding-an-integration.md)
   * [Applications on YellowAnt](integrating-applications/applications-on-yellowant.md)
     * [Asana](integrating-applications/applications-on-yellowant/asana.md)
+    * [Airbrake](integrating-applications/applications-on-yellowant/airbrake.md)
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
