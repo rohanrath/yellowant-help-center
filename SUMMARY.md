@@ -32,7 +32,7 @@
     * [Google Analytics](integrating-applications/applications-on-yellowant/google-analytics.md)
     * [Google Contacts](integrating-applications/applications-on-yellowant/google-contacts.md)
     * [Google Drive](integrating-applications/applications-on-yellowant/google-drive.md)
-    * Jenkins
+    * [Jenkins](integrating-applications/applications-on-yellowant/jenkins.md)
     * Jira
     * JiraO
     * [New Relic](integrating-applications/applications-on-yellowant/new-relic.md)
