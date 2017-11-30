@@ -9,7 +9,7 @@
 
 3. If you are in the Marketplace you can find Freshdesk under various categories such as all and project management. You can also search for this application in the search bar.
 
-   ![](/assets/fresh1.png)  
+   ![](/assets/fresh1.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
    ![](/assets/fresh2.png)
@@ -21,7 +21,7 @@
 6. In this step, YellowAnt asks you for the Freshdesk User API Key and Freshdesk Team URL.  
    ![](/assets/fresh4.png)
 
-7. You can find the API Key for Freshdesk in your account under Profile Settings &gt; API. Copy and paste that API Key in the text field on YellowAnt Integration page. Team URL is private16.freshdesk.com.  
+7. You can find the API Key for Freshdesk in your account under Profile Settings &gt; API. Copy and paste that API Key and Team URL in the text fields on YellowAnt Integration page and hit "SUBMIT". Here, Team URL is private16.freshdesk.com.  
    ![](/assets/fresh12.png)![](/assets/fresh11.JPG)
 
 8. Freshdesk is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
