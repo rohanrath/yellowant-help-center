@@ -7,7 +7,8 @@
 
 2. If you are in the dashboard, go to the tab called "Applications" and look for "Github" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".
 
-3. If you are in the Marketplace you can find Github under various categories such as all and project management. You can also search for this application in the search bar.
+3. If you are in the Marketplace you can find Github under various categories such as all and project management. You can also search for this application in the search bar.  
+   ![](/assets/gh1.png)
 
 4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
