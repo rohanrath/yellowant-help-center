@@ -18,9 +18,34 @@
   * [Marketplace and App Categories](integrating-applications/marketplace-and-app-categories.md)
   * [Adding an Integration](integrating-applications/adding-an-integration.md)
   * [Applications on YellowAnt](integrating-applications/applications-on-yellowant.md)
-    * [Asana](integrating-applications/applications-on-yellowant/asana.md)
     * [Airbrake](integrating-applications/applications-on-yellowant/airbrake.md)
+    * [Airtable](integrating-applications/applications-on-yellowant/airtable.md)
+    * [Asana](integrating-applications/applications-on-yellowant/asana.md)
     * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
+    * [Bitbucket](integrating-applications/applications-on-yellowant/bitbucket.md)
+    * Calendar \(Google\)
+    * [CircleCI](integrating-applications/applications-on-yellowant/freshdesk.md)
+    * Evernote
+    * Freshdesk
+    * [Github](integrating-applications/applications-on-yellowant/google-calendar.md)
+    * Gmail
+    * Google Analytics
+    * Google Contacts
+    * Google Drive
+    * Jenkins
+    * Jira
+    * JiraO
+    * New Relic
+    * Pagerduty
+    * Pivotal Tracker
+    * RSS
+    * Salesforce
+    * Sentry
+    * StackExchange
+    * Trello
+    * Twitter
+    * Wikipedia
+    * YouTube
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
