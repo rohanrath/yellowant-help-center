@@ -24,6 +24,7 @@
     * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
     * [Bitbucket](integrating-applications/applications-on-yellowant/bitbucket.md)
     * [Calendar \(Google\)](integrating-applications/applications-on-yellowant/calendar-google.md)
+    * [Circle CI](integrating-applications/applications-on-yellowant/circle-ci.md)
     * [Evernote](integrating-applications/applications-on-yellowant/evernote.md)
     * [Freshdesk](integrating-applications/applications-on-yellowant/freshdesk.md)
     * [Github](integrating-applications/applications-on-yellowant/google-calendar.md)
@@ -44,7 +45,7 @@
     * [Trello](integrating-applications/applications-on-yellowant/trello.md)
     * [Twitter](integrating-applications/applications-on-yellowant/twitter.md)
     * [Wikipedia](integrating-applications/applications-on-yellowant/wikipedia.md)
-    * [YouTube](integrating-applications/applications-on-yellowant/youtube.md)
+    * Circle CI
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
