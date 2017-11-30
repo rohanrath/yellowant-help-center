@@ -45,7 +45,6 @@
     * [Trello](integrating-applications/applications-on-yellowant/trello.md)
     * [Twitter](integrating-applications/applications-on-yellowant/twitter.md)
     * [Wikipedia](integrating-applications/applications-on-yellowant/wikipedia.md)
-    * Circle CI
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
