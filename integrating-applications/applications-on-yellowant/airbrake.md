@@ -1,4 +1,4 @@
-# **How to Integrate Airbrake**
+# **How to integrate Airbrake**
 
 1. Go to your YellowAnt Dashboard \([yoursubdomain.yellowant.com](/yoursubdomain.yellowant.com)\) or head over to the [YellowAnt Marketplace](https://www.yellowant.com/marketplace).  
    ![](/assets/InstaDash.jpg)YellowAnt Dashboard - Available Applications Panel
