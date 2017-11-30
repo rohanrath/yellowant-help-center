@@ -20,6 +20,7 @@
   * [Applications on YellowAnt](integrating-applications/applications-on-yellowant.md)
     * [Asana](integrating-applications/applications-on-yellowant/asana.md)
     * [Airbrake](integrating-applications/applications-on-yellowant/airbrake.md)
+    * [AWS Cloudwatch](integrating-applications/applications-on-yellowant/aws-cloudwatch.md)
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
