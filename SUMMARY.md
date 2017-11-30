@@ -17,6 +17,7 @@
 * [Integrating Applications](integrating-applications.md)
   * [Marketplace and App Categories](integrating-applications/marketplace-and-app-categories.md)
   * [Adding an Integration](integrating-applications/adding-an-integration.md)
+  * [Applications on YellowAnt](integrating-applications/applications-on-yellowant.md)
 * [Commanding Apps](applications/commanding-apps.md)
 * [Notifications](applications/notifications.md)
 * [Workflows](workflows.md)
