@@ -34,7 +34,7 @@
     * [Google Drive](integrating-applications/applications-on-yellowant/google-drive.md)
     * [Jenkins](integrating-applications/applications-on-yellowant/jenkins.md)
     * Jira
-    * JiraO
+    * [JiraO](integrating-applications/applications-on-yellowant/jirao.md)
     * [New Relic](integrating-applications/applications-on-yellowant/new-relic.md)
     * [Pagerduty](integrating-applications/applications-on-yellowant/pagerduty.md)
     * [Pivotal Tracker](integrating-applications/applications-on-yellowant/pivotal-tracker.md)
