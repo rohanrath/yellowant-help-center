@@ -17,11 +17,11 @@
 
 6. Once you click on add account, you are taken to the Jira authentication page of YellowAnt where you have to provide some information. The following are the steps to authenticate Jira.
 
-   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 12.           
+   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 12.             
    **  
    Note: For this tutorial we will be using a dummy Jira account - ‘private61.atlassian.net’.
 
-7. To create application link to JIRA, click on settings icon on your navigation bar \(right corner of the screen depicted by the gear icon. It is visible only to Jira administrators\). Select the “Applications” option in the menu.  
+7. To create application link to JIRA, click on settings icon. Select the “Applications” option in the menu.  
    ![](/assets/Screenshot %28290%29.png)Image0A - Settings
 
    ![](/assets/Screenshot %28291%291.png)  
