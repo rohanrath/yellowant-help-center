@@ -5,14 +5,14 @@
 
 2. If you are in the dashboard, go to the tab called "Applications" and look for "Pivotal Tracker" under available applications. If you have already integrated the application, you will be able to see it under "My Applications".
 
-3. If you are in the Marketplace you can find Pivotal Tracker under various categories such as all and project management. You can also search for this application in the search bar.
+3. If you are in the Marketplace you can find Pivotal Tracker under various categories such as all and project management. You can also search for this application in the search bar.  
 
-4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.  
+4. Once you find the application either in the dashboard or on the Marketplace click on view. You will be taken to a page where you'll find the integrate option/button. Click on the integrate button.
 
 5. You will be on the integration page which prompts you to add an account to the application. Click "add account" which takes you to the Pivotal Tracker Access page.  
-   Note: Select a team before you click "+ ADD ACCOUNT".  
+   Note: Select a team before you click "+ ADD ACCOUNT".
 
-6. In this step, YellowAnt asks you for the Pivotal Tracker User API Key, Pivotal Tracker Application URL and Username.  
+6. In this step, YellowAnt asks you for the Pivotal Tracker User API Key, Pivotal Tracker Application URL and Username.
 
 7. You can find the API Key for Pivotal Tracker in your account. Copy and paste that API Key in the text field on YellowAnt Integration page. Here's how to find your API Token:
 

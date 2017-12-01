@@ -36,7 +36,7 @@
     * Jira
     * JiraO
     * [New Relic](integrating-applications/applications-on-yellowant/new-relic.md)
-    * Pagerduty
+    * [Pagerduty](integrating-applications/applications-on-yellowant/pagerduty.md)
     * [Pivotal Tracker](integrating-applications/applications-on-yellowant/pivotal-tracker.md)
     * [RSS](integrating-applications/applications-on-yellowant/rss.md)
     * [Salesforce](integrating-applications/applications-on-yellowant/salesforce.md)
