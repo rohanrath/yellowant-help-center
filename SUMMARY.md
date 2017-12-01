@@ -33,7 +33,7 @@
     * [Google Contacts](integrating-applications/applications-on-yellowant/google-contacts.md)
     * [Google Drive](integrating-applications/applications-on-yellowant/google-drive.md)
     * [Jenkins](integrating-applications/applications-on-yellowant/jenkins.md)
-    * Jira
+    * [Jira](integrating-applications/applications-on-yellowant/jira.md)
     * [JiraO](integrating-applications/applications-on-yellowant/jirao.md)
     * [New Relic](integrating-applications/applications-on-yellowant/new-relic.md)
     * [Pagerduty](integrating-applications/applications-on-yellowant/pagerduty.md)
