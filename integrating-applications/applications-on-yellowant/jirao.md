@@ -17,7 +17,7 @@
 
 6. Once you click on add account, you are taken to the Jira authentication page of YellowAnt where you have to provide some information. The following are the steps to authenticate Jira.
 
-   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 6.         
+   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 12.           
    **  
    Note: For this tutorial we will be using a dummy Jira account - ‘private61.atlassian.net’.
 
@@ -76,14 +76,14 @@ Now after notification shows ‘Server details saved’, click on back and fill 
 ![](/assets/8.png)  
 Image7 - Passphrase
 
-12. Click on ‘Integrate with &lt;Your Server Name&gt;’ and allow YellowAnt to access Jira.  
+1. Click on ‘Integrate with &lt;Your Server Name&gt;’ and allow YellowAnt to access Jira.  
 
 ![](/assets/9.png)Image8 - Redirecting to OAuth
 
 Allow required permissions and then Jira will be integrated with YellowAnt.  
 ![](/assets/10.png)Image9 - Allow permissions
 
-13. JiraO is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
+1. JiraO is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
 
 
