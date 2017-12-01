@@ -17,22 +17,23 @@
 
 6. Once you click on add account, you are taken to the Jira authentication page of YellowAnt where you have to provide some information. The following are the steps to authenticate Jira.
 
-   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 6.     
+   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 6.       
    **  
    Note: For this tutorial we will be using a dummy Jira account - ‘private61.atlassian.net’.
 
-7. To create application link to JIRA, click on settings icon on your navigation bar \(right corner of the screen depicted by the gear icon. It is visible only to Jira administrators\). Select the “Applications” option in the menu.   
+7. To create application link to JIRA, click on settings icon on your navigation bar \(right corner of the screen depicted by the gear icon. It is visible only to Jira administrators\). Select the “Applications” option in the menu.  
    ![](/assets/Screenshot %28290%29.png)Image0A - Settings
 
    ![](/assets/Screenshot %28291%291.png)  
    Image0B - Applications
 
-8. Then under ‘Integrations’ section, click on Application Links. In text box enter ‘[https://yellowant.com/’](https://yellowant.com/’) and click on ‘Create new link’.   
+8. Then under ‘Integrations’ section, click on Application Links. In text box enter ‘[https://yellowant.com/’](https://yellowant.com/’) and click on ‘Create new link’.  
    ![](/assets/Screenshot %28294%29.png) Image1 - Configure Application Links
 
-9. A box will appear asking you to verify link and continue.
+9. A box will appear asking you to verify link and continue.  
     ![](/assets/Screenshot %28295%29.png)Image2- Configure Application URL
-10. Now, fill in the details asked in next dialogue box as shown in Image3. Keep the ‘Consumer Key’ and ‘Shared secret’ confidential.   
+
+10. Now, fill in the details asked in next dialogue box as shown in Image3. Keep the ‘Consumer Key’ and ‘Shared secret’ confidential.  
      Fill in the following details:
 
     ‘Request Token URL’ :  ‘[https://www.yellowant.com/market/applications/24/requesttoken/’](https://www.yellowant.com/market/applications/24/requesttoken/’)
@@ -53,8 +54,8 @@
 
     ![](/assets/Screenshot %28300%29.png)Image 4 - Link applications
 
-Now, for the ‘Public Key’ we will head to YellowAnt   
-\(at [https://www.yellowant.com/market/applications/24/accounts/\](https://www.yellowant.com/market/applications/24/accounts/\)\) and select/login your team on the right hand corner menu. Click on ‘Add account’ and authorize YellowAnt.   
+Now, for the ‘Public Key’ we will head to YellowAnt  
+\(at [https://www.yellowant.com/market/applications/24/accounts/\](https://www.yellowant.com/market/applications/24/accounts/%29\) and select/login your team on the right hand corner menu. Click on ‘Add account’ and authorize YellowAnt.  
  Once you are redirected to settings page, fill in your server name and click ‘GO’.
 
 ![](/assets/6.png)  
@@ -75,13 +76,13 @@ Now after notification shows ‘Server details saved’, click on back and fill 
 ![](/assets/8.png)  
 Image7 - Passphrase
 
-12. Click on ‘Integrate with &lt;Your Server Name&gt;’ and allow YellowAnt to access Jira.  
-![](/assets/9.png)Image8 - Redirecting to OAuth
+1. Click on ‘Integrate with &lt;Your Server Name&gt;’ and allow YellowAnt to access Jira.  
+   ![](/assets/9.png)Image8 - Redirecting to OAuth
 
 Allow required permissions and then Jira will be integrated with YellowAnt.  
 ![](/assets/10.png)Image9 - Allow permissions
 
-13. JiraO is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
+1. JiraO is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
 
 
