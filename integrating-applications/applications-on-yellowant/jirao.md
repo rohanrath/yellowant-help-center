@@ -17,7 +17,7 @@
 
 6. Once you click on add account, you are taken to the Jira authentication page of YellowAnt where you have to provide some information. The following are the steps to authenticate Jira.
 
-   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 12.               
+   **You need to be a system administrator of the Jira account to be able to create application link \(which integrates Jira with YellowAnt\). If your Jira server is already registered with YellowAnt, you can skip to the steps starting from Step 12.                 
    **  
    Note: For this tutorial we will be using a dummy Jira account - ‘private61.atlassian.net’.
 
@@ -33,8 +33,7 @@
 9. A box will appear asking you to verify link and continue.  
     ![](/assets/Screenshot %28295%29.png)Image2- Configure Application URL
 
-10. Now, fill in the details asked in next dialogue box as shown in Image3. Keep the ‘Consumer Key’ and ‘Shared secret’ confidential.  
-     Fill in the following details:
+10. Now, fill in the details asked in next dialogue box as shown in Image3. Keep the ‘Consumer Key’ and ‘Shared secret’ confidential. Fill in the following details:
 
     ‘Request Token URL’ :  ‘[https://www.yellowant.com/market/applications/24/requesttoken/’](https://www.yellowant.com/market/applications/24/requesttoken/’)
 
@@ -55,8 +54,8 @@
     ![](/assets/Screenshot %28300%29.png)Image 4 - Link applications
 
 Now, for the ‘Public Key’ we will head to YellowAnt  
-\(at [https://www.yellowant.com/market/applications/24/accounts/](https://www.yellowant.com/market/applications/24/accounts/%29\)\) and select/login your team on the right hand corner menu. Click on ‘Add account’ and authorize YellowAnt.  
- Once you are redirected to settings page, fill in your server name and click ‘GO’.
+\(at [https://www.yellowant.com/market/applications/24/accounts/](https://www.yellowant.com/market/applications/24/accounts/%29%29\) and select/login your team on the right hand corner menu. Click on ‘Add account’ and authorize YellowAnt.  
+Once you are redirected to settings page, fill in your server name and click ‘GO’.
 
 ![](/assets/6.png)  
 Image5 - Jira Team URL
@@ -69,7 +68,7 @@ Fill in the ‘Consumer Key’ and ‘Shared Secret’ \(mentioned as ‘Consume
 
 Paste the key in ‘Public Key’ field and click continue. Your ‘Application Link’ in Jira is created but you haven’t saved server details in YellowAnt yet. Head back to YellowAnt where you left off. Fill in the passphrase.
 
-Note: Only you can edit the server details.
+Note: Only if you have the passphrase, you can edit the server details.
 
 Now after notification shows ‘Server details saved’, click on back and fill in the name of server and click ‘GO’.
 
