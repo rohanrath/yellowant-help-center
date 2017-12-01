@@ -23,11 +23,9 @@
 
 7. You can find the API Key for Jenkins in your account. Copy and paste that API Key in the text field on YellowAnt Integration page. Here's how to find your API Token:  
   
-   1. Go to the account page using your username in the top bar. Click on it.![](/assets/jenkins1.JPG)  
-  
-   2. Click on configure![](/assets/jenkins2.JPG)3. Click on "Show API Token"![](/assets/jenkins3.JPG)  
-  
-   4. You can see your API key there, you can change it as needed, but make sure to change it on YellowAnt too.![](/assets/jenkins4.JPG)
+   1. Go to the account page using your username in the top bar. Click on it.![](/assets/jenkins1.JPG)
+
+   2. Click on configure![](/assets/jenkins2.JPG)3. Click on "Show API Token"![](/assets/jenkins3.JPG)4. You can see your API key there, you can change it as needed, but make sure to change it on YellowAnt too.![](/assets/jenkins4.JPG)
 
 8. Jenkins is now integrated and you get a message on your chat application for the same. You will be able to see it under your applications in the Dashboard too.
 
