@@ -4,7 +4,7 @@ Microsoft Teams users can directly import the YellowAnt bot into a team by addin
 
 Let's take a look at the step by step process for signing up using Slack:
 
-1. Go to Microsoft Teams, and click on the \[**...\]** button next to your Team name in the sidebar
+1. Let us first add YellowAnt to a team. Go to Microsoft Teams, and click on the \[**...\]** button next to your Team name in the sidebar. \(**Note: **If YellowAnt is already added to a Team, simply go to **Chat sidebar tab, **and search for **YellowAnt **and add it. Start a conversation with YellowAnt by typing **- help.** YellowAnt will send you an authentication message. Go directly to Step 6.\)
 
 2. Click on **Manage Team**
 
@@ -17,8 +17,6 @@ Let's take a look at the step by step process for signing up using Slack:
 6. Click on **Authenticate **and authenticate your Azure account![](/assets/screenshot-teams.microsoft.com-2017-12-03-21-42-12-146.png)
 
 7. You will be taken to the YellowAnt dashboard where you can start integrating applications.![](/assets/Overview.jpg)
-
-
 
 
 
