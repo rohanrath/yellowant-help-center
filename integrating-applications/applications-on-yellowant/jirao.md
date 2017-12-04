@@ -53,8 +53,7 @@
 
     ![](/assets/Screenshot %28300%29.png)Image 4 - Link applications
 
-    Now, for the ‘Public Key’ we will head to YellowAnt \(at [https://www.yellowant.com/market/applications/24/accounts/](https://www.yellowant.com/market/applications/24/accounts/%29%29%29 and select/login your team on the right hand corner menu.  
-    Click on ‘Add account’ %28we already did this step 5\) and authorize YellowAnt. Once you are redirected to settings page, fill in your server name and click ‘GO’.  
+    Now, for the ‘Public Key’ we will head to YellowAnt \(at [https://www.yellowant.com/market/applications/24/accounts) and authorize YellowAnt. Once you are redirected to settings page, fill in your server name and click ‘GO’.  
      ![](/assets/6.png)   Image5 - Jira Team URL
 
     Click on ‘Create New Server – Your Server Name’ as shown in Image5  
