@@ -1,4 +1,4 @@
 # Using Logical Functions
 
-Details coming soon.
+THIS PART OF THE DOCS IS UNDER CONSTRUCTION. 
 

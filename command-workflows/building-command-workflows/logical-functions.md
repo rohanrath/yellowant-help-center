@@ -1,4 +1,4 @@
 # Using Logical Functions
 
-YellowAnt offers many 
+THIS PART OF THE DOCS IS UNDER CONSTRUCTION. 
 
