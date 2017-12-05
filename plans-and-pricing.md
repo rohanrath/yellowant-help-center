@@ -23,13 +23,13 @@ The free plan is the most introductory plan of YellowAnt and is perfect for indi
 ##### What application can I use in the free plan?
 
 Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar \(Google\), Circle CI, Evernote, Freshdesk, Github, Gmail, Google Analytics, Google Contacts, Google Drive, Jenkins, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.  
-Premium Applications \(Unavailable in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce. 
+Premium Applications \(Unavailable in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce.
 
 ##### How much do I pay for the free plan?
 
 As the name says, you do not pay anything for the above mentioned features. However, in case you want assistance or sessions on building with YellowAnt, that might be charged based on requirements.
 
-## 
+
 
 ## Basic Plan
 
@@ -48,7 +48,7 @@ The basic plan is suitable for small businesses who are not using Premium applic
 ##### What application can I use in the Basic plan?
 
 Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar \(Google\), Circle CI, Evernote, Freshdesk, Github, Gmail, Google Analytics, Google Contacts, Google Drive, Jenkins, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.  
-Premium Applications \(Unavailable in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce. 
+Premium Applications \(Unavailable in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce.
 
 ##### How much do I pay for the Basic plan?
 
@@ -61,7 +61,7 @@ The basic plan has charges starting from just $3.5/user/month and going up to $5
 | Quarterly | $4.5 |
 | Monthly | $5.0 |
 
-## 
+
 
 ## Premium Plan
 
@@ -80,7 +80,7 @@ The premium plan is suitable for medium to large businesses who are using Premiu
 ##### What application can I use in the Premium plan?
 
 Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar \(Google\), Circle CI, Evernote, Freshdesk, Github, Gmail, Google Analytics, Google Contacts, Google Drive, Jenkins, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.  
-Premium Applications \(Available in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce. 
+Premium Applications \(Available in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce.
 
 ##### How much do I pay for the Premium plan?
 
@@ -92,6 +92,8 @@ The premium plan has charges starting from just $7/user/month and going up to $1
 | Bi-Annually | $8.0 |
 | Quarterly | $9.0 |
 | Monthly | $10.0 |
+
+
 
 ## Enterprise Editions
 
@@ -113,7 +115,7 @@ The enterprise edition plan is suitable for medium to large businesses who use p
 ##### What application can I use in the Premium plan?
 
 Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar \(Google\), Circle CI, Evernote, Freshdesk, Github, Gmail, Google Analytics, Google Contacts, Google Drive, Jenkins, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.  
-Premium Applications \(Available in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce. 
+Premium Applications \(Available in this plan\): Jira, JiraO, Pagerduty, Pivotal Tracker, New Relic, Salesforce.
 
 ##### How much do I pay for the Enterprise plan?
 
