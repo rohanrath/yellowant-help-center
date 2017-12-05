@@ -22,7 +22,7 @@ The free plan is the most introductory plan of YellowAnt and is perfect for indi
 
 ##### What application can I use in the free plan?
 
-Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar, \(Google\), Circle, CI, Evernote, Freshdesk, Github, Gmail, Google, Analytics, Google, Contacts, Google, Drive, Jenkins, Jira, JiraO, New, Relic, Pagerduty, Pivotal, Tracker, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube. 
+Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar, \(Google\), Circle, CI, Evernote, Freshdesk, Github, Gmail, Google, Analytics, Google, Contacts, Google, Drive, Jenkins, Jira, JiraO, New, Relic, Pagerduty, Pivotal, Tracker, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.
 
 ##### How much do I pay for the free plan?
 
@@ -44,7 +44,7 @@ The basic plan is suitable for small businesses who are not using Premium applic
 
 ##### What application can I use in the free plan?
 
-Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar, \(Google\), Circle, CI, Evernote, Freshdesk, Github, Gmail, Google, Analytics, Google, Contacts, Google, Drive, Jenkins, Jira, JiraO, New, Relic, Pagerduty, Pivotal, Tracker, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube. 
+Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar, \(Google\), Circle, CI, Evernote, Freshdesk, Github, Gmail, Google, Analytics, Google, Contacts, Google, Drive, Jenkins, Jira, JiraO, New, Relic, Pagerduty, Pivotal, Tracker, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.
 
 ##### How much do I pay for the free plan?
 
@@ -56,8 +56,6 @@ The basic plan has charges starting from just $3.5/user/month and going up to $5
 | Bi-Annually | $4.0 |
 | Quarterly | $4.5 |
 | Monthly | $5.0 |
-
-
 
 ## Premium Plan
 
@@ -75,7 +73,7 @@ The premium plan is suitable for medium to large businesses who are using Premiu
 
 ##### What application can I use in the free plan?
 
-Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar, \(Google\), Circle, CI, Evernote, Freshdesk, Github, Gmail, Google, Analytics, Google, Contacts, Google, Drive, Jenkins, Jira, JiraO, New, Relic, Pagerduty, Pivotal, Tracker, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube. 
+Airbrake, Airtable, Asana, AWS, Cloudwatch, Bitbucket, Calendar, \(Google\), Circle, CI, Evernote, Freshdesk, Github, Gmail, Google, Analytics, Google, Contacts, Google, Drive, Jenkins, Jira, JiraO, New, Relic, Pagerduty, Pivotal, Tracker, RSS, Salesforce, Sentry, StackExchange, Trello, Twitter, Wikipedia, YouTube.
 
 ##### How much do I pay for the free plan?
 
