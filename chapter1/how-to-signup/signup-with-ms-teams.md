@@ -2,7 +2,7 @@
 
 Microsoft Teams users can directly import the YellowAnt bot into a team by adding YellowAnt from the Teams bot marketplace. You will be asked to authorize your Azure account, after which YellowAnt will create a team account\(connected to your Office 365 tenant\) with the same domain name as your Azure email domain. If you are the first one from your Office 365 directory to integrate YellowAnt, YellowAnt will make you the owner of the YellowAnt team account - in this case, you will need your Tenant  administrator to create an  account and transfer the YellowAnt team account.
 
-Let's take a look at the step by step process for signing up using Slack:
+Let's take a look at the step by step process for signing up using Teams:
 
 1. Let us first add YellowAnt to a team. Go to Microsoft Teams, and click on the \[**...\]** button next to your Team name in the sidebar. \(**Note: **If YellowAnt is already added to a Team, simply go to **Chat sidebar tab, **and search for **YellowAnt **and add it. Start a conversation with YellowAnt by typing **- help.** YellowAnt will send you an authentication message. Go directly to Step 6.\)
 
